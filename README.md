@@ -5,6 +5,9 @@ This short document describes the architecture for [Fly Privi](https://flyprivi.
 
 ![download](https://github.com/user-attachments/assets/5cd8b086-ffd5-44a3-8865-0ca0fd4cd616)
 
+## CI/CD Pipeline
+Coming soon ...
+
 
 ## Thoughts :thinking:
 
